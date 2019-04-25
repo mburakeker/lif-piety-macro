@@ -1,7 +1,9 @@
 # lif-piety-macro
-This is a macro application I made for Life is Feudal MMO using autohotkey + python
+https://lifeisfeudal.com/forum/piety-levelling-macro-script-t44812/
 
-I was wondering if I could make a macro that would let me repeatedly use command /prayfor to people and increase my piety level so I made this script, it picks a random name from a list and prays for it.
+This is a macro application I developed for Life is Feudal MMO using autohotkey + python
+
+I was wondering if I could make a macro that would let me repeatedly use command /prayfor to people and increase the piety level of the character so I made this script, it picks a random name from a list and prays for it.
 
 Things you should do to use this script:
 
